@@ -8,7 +8,7 @@
 - Foundation, Combine, CoreLocation, MapKit, WebKit
 - Xcode, Terminal, Git
 - MVC, MVVM (Boxing), MVP, VIPER, CleanSwift
-- Storyboards, Auto Layout, UINib, Programmatic layout
+- Storyboards, Auto Layout, UINib, Programmatic Layout
 - SOLID, KISS, DRY, HIG
 - CoreData, UserDefaults, NSCoder, Realm, Firebase
 - URLSession (GET/POST Requests), JSON, API, Alamofire, AlamofireImage, Kingfisher
